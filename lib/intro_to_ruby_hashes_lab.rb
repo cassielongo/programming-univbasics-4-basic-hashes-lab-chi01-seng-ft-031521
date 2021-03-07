@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {nail_polish
+  my_hash = {
+    :nail_polish => pink
+    
 end
 
 def pioneer
